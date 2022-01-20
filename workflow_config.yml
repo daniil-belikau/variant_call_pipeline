@@ -1,0 +1,10 @@
+sample:
+ SRR15660643
+ext:
+ .1.16000
+reads:
+ SRR15660643:
+  mate1: data/input/reads/SRR15660643/SRR15660643.1.16000.fq
+  mate2: data/input/reads/SRR15660643/SRR15660643.2.16000.fq
+genome:
+ MN908947.3.fasta

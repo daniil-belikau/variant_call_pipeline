@@ -1,0 +1,10 @@
+sample:
+ SRS10100888
+ext:
+ _R1_001
+reads:
+ SRS10100888:
+  mate1: data/input/reads/SRS10100888/SRS10100888_R1_001.fastq.gz
+  mate2: data/input/reads/SRS10100888/SRS10100888_R2_001.fastq.gz
+genome:
+ MN908947.3.fasta

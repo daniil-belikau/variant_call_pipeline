@@ -1,0 +1,7 @@
+snakemake
+fastqc
+multiqc
+bwa
+sambamba
+freebayes
+snpeff
