@@ -11,8 +11,6 @@ RUN conda config --add channels defaults && \
 RUN conda update -n base conda && \
     conda create -n var_call --file /tools/packages.txt 
 
-#RUN exec bash
-
 RUN apt-get update && \
     apt-get -y install build-essential libz-dev liblzma-dev libbz2-dev libcurl4-gnutls-dev
 
